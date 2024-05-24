@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://simongarrad.github.io/temptester/sitemap.xml
