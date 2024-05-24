@@ -3,12 +3,72 @@
     <title>PACT demo site</title>
     <link href="https://simongarrad.github.io/temptester/feed.xml" rel="self" />
     <link href="https://simongarrad.github.io/temptester" />
-    <updated>2024-05-24T17:58:04+01:00</updated>
+    <updated>2024-05-24T18:09:22+01:00</updated>
     <author>
         <name>Simon Garrad</name>
     </author>
     <id>https://simongarrad.github.io/temptester</id>
 
+    <entry>
+        <title>Beach day</title>
+        <author>
+            <name>Simon Garrad</name>
+        </author>
+        <link href="https://simongarrad.github.io/temptester/beach-day.html"/>
+        <id>https://simongarrad.github.io/temptester/beach-day.html</id>
+
+        <updated>2024-05-24T18:07:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Beach day The O'Brien family are spending the day at the beach. The want to find the perfect umbrella. The umbrellas are numbered 1-10. First, they need to be sure the umbrella is free. It is free, if both sunbeds don’t have towels on them.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="western" align="left"> </p>
+<table style="border-collapse: collapse; width: 100%; border-color: #3598db; border-style: solid;" width="100%" cellspacing="4" cellpadding="2">
+<tbody>
+<tr>
+<td style="width: 14.9786%;" width="15%" height="46">
+<p align="left"><span style="color: #006778;"><img loading="lazy" src="file:///C:/Users/p230037/AppData/Local/Temp/lu197924f8qjy.tmp/lu197924f8qk1_tmp_7c97fcc.gif" width="91" height="46" align="bottom" border="0" data-is-external-image="true"> </span></p>
+</td>
+<td style="width: 70.0428%;" width="70%">
+<p align="center"><span style="color: #006778;"><span style="font-family: Purisa;"><span style="font-size: xx-large;"><i><strong>Beach day</strong></i></span></span></span></p>
+</td>
+<td style="width: 14.9786%;" width="15%">
+<p class="western" align="right"><img loading="lazy" src="file:///C:/Users/p230037/AppData/Local/Temp/lu197924f8qjy.tmp/lu197924f8qk1_tmp_41baeb33.gif" width="87" height="43" align="middle" border="0" data-is-external-image="true"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="western"> </p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">The O'Brien family are spending the day at the beach. The want to find the perfect umbrella. The umbrellas are numbered 1-10.</span></span></p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">First, they need to be sure the umbrella is free. It is free, if both sunbeds don’t have towels on them.</span></span></p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">Second, they don’t want to be directly next to where people walk. They can check for footprints in the sand.</span></span></p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">Third, they don’t want to be directly next to any wet sand. They can tell if the sand is wet by itsdarker colour.</span></span></p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">Fourth, they don’t want to sit where they will hear music coming from the people next to them.</span></span></p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;"> The range of the music is marked on in the pictures with music notes in the squar</span></span></p>
+<p class="western"><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">Finally, they want to have some space to play in the sand, at least 2 squares should be enough space.</span></span></p>
+<p align="left"><img loading="lazy" src="file:///C:/Users/p230037/AppData/Local/Temp/lu197924f8qjy.tmp/lu197924f8qk1_tmp_213c1d58.gif" width="643" height="258" align="left" border="0" data-is-external-image="true"></p>
+<p align="left"> </p>
+<p align="left"> </p>
+<p align="left"> </p>
+<p align="left"> </p>
+<p align="left"> </p>
+<p align="left"><span style="color: #3598db;"><span style="font-size: large;"><strong>QUESTION </strong></span></span></p>
+<table style="border-collapse: collapse; width: 100%; border-color: #3598DB; border-style: solid;" width="100%" cellspacing="0" cellpadding="4">
+<tbody>
+<tr>
+<td width="629">
+<p class="western"><strong><span style="font-size: medium;">Q</span><span style="font-size: medium;">uestion: </span><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">Which </span></span><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">umbrella is the best one for the O’Brien </span></span><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">family</span></span><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;"> to sit under</span></span><span style="font-family: FreeSans, sans-serif;"><span style="font-size: medium;">?</span></span></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://simongarrad.github.io/temptester/tags/teachers/"></a><a href="https://simongarrad.github.io/temptester/tags/teachers/" title="teachers">teachers</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Meet the team</title>
         <author>
