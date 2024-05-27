@@ -3,7 +3,7 @@
     <title>PACT demo site</title>
     <link href="https://simongarrad.github.io/temptester/feed.xml" rel="self" />
     <link href="https://simongarrad.github.io/temptester" />
-    <updated>2024-05-27T17:31:31+01:00</updated>
+    <updated>2024-05-27T17:38:40+01:00</updated>
     <author>
         <name>Simon Garrad</name>
     </author>
@@ -96,7 +96,7 @@
 </tr>
 </tbody>
 </table>
-<p align="center"><span style="color: #000000;"><span style="font-family: FreeSerif, serif;"><span style="font-size: small;">Computational thinking resources for teachers by Maynooth University – pact.cs.nuim.ie<br>Original © 2013 Bebras, modifications © 2024 Maynooth University, Licence: CC-BY-NC-SA 4.0</span></span></span></p>
+<p class="align-center"><span style="color: #000000;"><span style="font-family: FreeSerif, serif;"><span style="font-size: small;">Computational thinking resources for teachers by Maynooth University – pact.cs.nuim.ie<br>Original © 2013 Bebras, modifications © 2024 Maynooth University, Licence: CC-BY-NC-SA 4.0</span></span></span></p>
 <figure class="post__image"><img loading="lazy"  src="https://simongarrad.github.io/temptester/media/posts/13/Footnotewatermark.svg" alt="" width="715" height="159"></figure>
             ]]>
         </content>
